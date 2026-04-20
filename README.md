@@ -25,7 +25,7 @@ Every session begins with a unique, 32-character API key generated in your termi
 ### 02 // The Tactical HUD
 A unified view of your entire system. Sort, search, and identify bloat across APT, Snap, and Python environments simultaneously.
 <p align="center">
-  <img src="" width="800" alt="NIX-RAY Main Dashboard" />
+  <img src="assets/dashboard-main.png" width="800" alt="NIX-RAY Main Dashboard" />
 </p>
 
 ---
