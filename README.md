@@ -25,7 +25,7 @@ Every session begins with a unique, 32-character API key generated in your termi
 ### 02 // The Tactical HUD
 A unified view of your entire system. Sort, search, and identify bloat across APT, Snap, and Python environments simultaneously.
 <p align="center">
-  <img src="assets/dashboard-main.png" width="800" alt="NIX-RAY Main Dashboard" />
+  <img src="" width="800" alt="NIX-RAY Main Dashboard" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ A unified view of your entire system. Sort, search, and identify bloat across AP
 Ensure you have Python 3.12+ installed. Clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/rugerobuilds/nix-ray.git](https://github.com/rugerobuilds/nix-ray.git)
+git clone https://github.com/rugerobuilds/nix-ray.git
 cd nix-ray
 ````
 
@@ -82,14 +82,13 @@ RugeroBuilds is an open-spec studio. If you want to improve the extraction logic
 4.  Push to the branch (`git push origin feature/EmeraldUpgrade`).
 5.  Open a Pull Request.
 
------
+---
 
 ## 📜 License
-
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
-\<p align="center"\>
-\<br /\>
-\<b\>Built with 💚 by \<a href="https://www.google.com/search?q=https://github.com/rugerobuilds"\>Rugero Tesla\</a\>\</b\>
-\</p\>
+<br />
 
+<p align="center">
+  <b>Built with 💚 by <a href="https://github.com/rugerobuilds">Rugero Tesla</a></b>
+</p>
